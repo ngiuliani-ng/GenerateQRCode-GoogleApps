@@ -1,3 +1,8 @@
+/**
+ * @param {100x100} size 
+ * @param {Url} data 
+ */
+
 function GenerateQRCode(size, data) {
     var qrcode = null;
 
